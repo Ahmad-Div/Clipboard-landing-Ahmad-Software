@@ -30,7 +30,7 @@ p {
 
 
 .up-section {
-    background: url(/clipboard-landing-page-master/images/bg-header-desktop.png) no-repeat;
+    background: url("bg-header-desktop.png") no-repeat;
     background-attachment: fixed;
     background-size: cover;
     display: flex;
